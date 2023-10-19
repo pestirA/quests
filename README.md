@@ -8,7 +8,6 @@ Quest is a webapp made with node.js and golang.
 
 Thanks for the Opportunity! 
 This code is meant to demonstrate some of the capabilities of Containerizing and Application then Deployment to GCP
-This corresponds to [this PPT Deck](https://docs.google.com/presentation/d/1Jv81fU2TbUpHfRagEY6RNokwvD78oH2vRYrIaY3VEYE/edit#slide=id.g25c822bee54_1_35). 
 
 To get started, there are few prerequisites to get started .
 
